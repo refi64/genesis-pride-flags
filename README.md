@@ -3,6 +3,8 @@
 A SEGA Genesis ROM that hand-draws a gallery of pride flags, navigable via the left and
 right directional buttons.
 
+![Screenshot](img/Screenshot%20from%202021-06-30%2017-08-14.png)
+
 ## Building & running
 
 Assumes Linux.
