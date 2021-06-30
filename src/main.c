@@ -74,6 +74,9 @@ int CountFlagStripes(Flag flag) {
 
 int UseDarkTextWithFlag(Flag flag) {
   switch (flag) {
+  case kFlag_Bigender:
+  case kFlag_Genderfluid:
+  case kFlag_Genderqueer:
   case kFlag_NonBinary:
   case kFlag_Transgender:
     return 1;
