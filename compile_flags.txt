@@ -1,0 +1,2 @@
+-Igendev/sgdk/inc
+-Igendev/sgdk/res

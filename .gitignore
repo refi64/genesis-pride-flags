@@ -1,0 +1,4 @@
+gendev/
+gendev*.txz
+out/
+src/boot/

@@ -1,0 +1,8 @@
+{
+  "GENDEV": "gendev",
+  "GDK": "gendev/sgdk",
+  "custom-makefile": "gendev/sgdk/mkfiles/Makefile.rom",
+  "editor.rulers": [
+    90
+  ]
+}
